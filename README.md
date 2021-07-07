@@ -22,7 +22,11 @@ And the Bluetooth for communicate with the tablet wirelessly
 
 ## Ultrasonic Sensor connection pins
 
+![Introduction-to-HC-SR04](https://user-images.githubusercontent.com/85455361/124712954-9657c900-df08-11eb-968b-2246cb1c8ce9.jpg)
+
 ## Bluetooth module connection pins
+
+![hc051](https://user-images.githubusercontent.com/85455361/124713078-bdae9600-df08-11eb-8240-8f3872993614.jpg)
 
 # Connection:
 
