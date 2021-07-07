@@ -18,7 +18,7 @@ And the Bluetooth for communicate with the tablet wirelessly
 4. Capacitors x2
 5. Voltage regulator 
 6. Ultra sonic sensor
-7. Bluetooth module
+7. HC 05 Bluetooth module
 
 ## Ultrasonic Sensor connection pins
 
