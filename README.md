@@ -20,9 +20,9 @@ And the Bluetooth for communicate with the tablet wirelessly
 6. Ultra sonic sensor
 7. Bluetooth module
 
-## Ultrasonic Sensor
+## Ultrasonic Sensor connection pins
 
-## Bluetooth module 
+## Bluetooth module connection pins
 
 # Connection:
 
@@ -35,13 +35,15 @@ And the Bluetooth for communicate with the tablet wirelessly
 
 # Code:
 
+I present only the important new codes instead of all code.
+
 1. Libraries 
 
 2. Defning:
 
 3. Setup:
 
-4. The main body 
+4. The main body (points):
 
 ### Note:
 
