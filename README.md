@@ -42,6 +42,17 @@ And the Bluetooth for communicate with the tablet wirelessly
 3. Tx ; which which is responsible for sending data from Arduino to the outer world. ( must be connect to the Rx )
 4. Rx ; which which is responsible for receiving data from outer world to the Arduino. ( must be connectct to the Tx ) 
 
+## MG995 Servo Motor:
+
+![MG995-Servo-Pinout](https://user-images.githubusercontent.com/85455361/125038290-ecaa4080-e09d-11eb-9b9f-f8967cbb6d89.png)
+
+### As shown the servomotor has 3 pins:
+
+1. Vcc (Red) ; power pin which must connect to the voltage source.
+2. Ground (Brown); ground pin.
+3. Singla (Orange); which is responsible for controling the degree of the brush and it must be connected to a PWM pin.
+
+
 # Connection:
 
 ![aaa](https://user-images.githubusercontent.com/85455361/124711475-cbfbb280-df06-11eb-9788-6bbc21646dea.jpg)
