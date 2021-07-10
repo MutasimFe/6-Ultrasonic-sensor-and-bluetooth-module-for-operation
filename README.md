@@ -46,6 +46,11 @@ And the Bluetooth for communicate with the tablet wirelessly
 
 ![aaa](https://user-images.githubusercontent.com/85455361/124711475-cbfbb280-df06-11eb-9788-6bbc21646dea.jpg)
 
+# Video:
+
+### Notes
+
+* The video is for explain the idea so i made small changes in code. The main code is as in the file.
 
 ### Notes:
 
