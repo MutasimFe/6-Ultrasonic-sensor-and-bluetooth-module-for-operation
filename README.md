@@ -350,6 +350,6 @@ If the object is in evaluation range
 
 # Important notes:
 
-* There is no bluetooth module in tinkercad that why i did not record a video.
+* There is no bluetooth module in tinkercad.
 
 
