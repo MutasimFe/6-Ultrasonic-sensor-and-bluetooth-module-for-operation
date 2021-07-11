@@ -10,6 +10,10 @@ Adding ultrasonic sensor and Bluetooth module for the robotic arm task (previous
 The ultrasonic for sensing objects if there is in front of the robot or not.
 And the Bluetooth for communicate with the tablet wirelessly
 
+### Wokring is done with my mate:
+
+@https://github.com/abdukhaledi
+
 # Components:
 
 1. Arduino
